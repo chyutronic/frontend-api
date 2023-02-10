@@ -1,0 +1,12 @@
+.contenedor {
+    @apply flex justify-center;
+}
+
+.contenedorFormulario {
+    @apply w-[500px] bg-slate-200 p-5;
+}
+
+.inputs {
+    @apply flex py-3 justify-between;
+    
+}
